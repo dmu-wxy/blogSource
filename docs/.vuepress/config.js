@@ -7,7 +7,7 @@ module.exports = {
   // theme: require.resolve('../../theme-vdoing'), // 使用本地主题
 
   title: "Meteor's blog",
-  description: 'java后端技术博客,专注java后端学习与总结。java,spring,mybatis,springmvc,springboot,redis,git,github等技术文章。',
+  description: '知识管理博客',
   // base: '/', // 格式：'/<仓库名>/'， 默认'/'
   markdown: {
     lineNumbers: true, // 代码行号

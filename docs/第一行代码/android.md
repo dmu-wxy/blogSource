@@ -1,3 +1,12 @@
+---
+title: android
+date: 2022-09-02 20:43:48
+permalink: /pages/53bc82/
+categories:
+  - 第一行代码
+tags:
+  - 
+---
 # Android
 
 四层架构：Linux内核层、系统运行库层、应用框架层、应用层

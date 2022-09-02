@@ -2,6 +2,18 @@
 module.exports = [
   { text: '首页', link: '/' },
   {
+	text: 'C++',
+	link: '/pages/f51b4a/',
+	items: [
+		{
+			text: '学习笔记',
+			items: [
+			  { text: '《C++ Primer》笔记', link: '/pages/f51b4a/' },
+			],
+		  }
+	]
+  },
+  {
     text: 'java',
     link: '/java/', //目录页链接，此处link是vdoing主题新增的配置项，有二级导航时，可以点击一级导航跳到目录页
     items: [
@@ -16,25 +28,17 @@ module.exports = [
       {
         text: '学习笔记',
         items: [
-          { text: '《Java核心技术  卷一》笔记', link: '/note/CoreJavaVolume/' },
-          {
-            text: '《Git》学习笔记',
-            link: '/note/git/',
-          },
-          {
-            text: '设计模式总结笔记',
-            link: '/pages/model/',
-          },
+          { text: '《Java核心技术  卷一》笔记', link: '/note/CoreJavaVolume/' }
         ],
       },
-    ],
-  },
-  {
-    text: 'Spring',
-    link: '/spring/',
-    items: [
-      { text: ' Spring', link: '/pages/spring/' },
-      { text: ' SpringBoot', link: '/pages/springboot/' },
+      {
+		text: 'Spring',
+		link: '/spring/',
+		items: [
+		  { text: ' Spring', link: '/pages/spring/' },
+		  { text: ' SpringBoot', link: '/pages/springboot/' },
+		],
+	  },
     ],
   },
   {
