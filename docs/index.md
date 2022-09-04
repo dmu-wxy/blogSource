@@ -2,7 +2,7 @@
 home: true
 # heroImage: /img/web.png
 heroText: Meteor's blog
-tagline: java后端技术博客，保持独立思考，不卑不亢不怂，长成自己想要的样子
+tagline: 保持独立思考，不卑不亢不怂，长成自己想要的样子
 actionText: 立刻进入 →
 actionLink: /java/
 bannerBg: https://n.sinaimg.cn/sinacn10116/685/w2048h1037/20190615/748c-hymscpq5738736.jpg
@@ -54,3 +54,7 @@ bannerBg: https://n.sinaimg.cn/sinacn10116/685/w2048h1037/20190615/748c-hymscpq5
 - **GitHub**: <https://github.com/dmu-wxy>
 
 </br>  -->
+
+<ClientOnly>
+  <WebInfo/>
+</ClientOnly>

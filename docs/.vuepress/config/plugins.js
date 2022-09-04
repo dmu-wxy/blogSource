@@ -107,4 +107,10 @@ module.exports = [
       },
     },
   ],
+  [
+    {
+        name: 'custom-plugins',
+        globalUIComponents: ["PageInfo"] // 2.x 版本 globalUIComponents 改名为 clientAppRootComponentFiles
+    }
+  ],
 ]
