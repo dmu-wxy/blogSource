@@ -42,24 +42,18 @@ module.exports = [
     ],
   },
   {
-    text: '算法',
-    link: '/algorithm/',
-    items: [
-      { text: '图论', link: '/pages/pic/' },
-      { text: '数论', link: '/pages/num/' },
-      { text: '动态规划', link: '/pages/dp/' },
-      { text: '其他', link: '/pages/other/' },
-    ],
+	text: 'XR',
+	link: '/xr/',
+	items: [
+    {text: 'OpenXR', link: '/pages/5881ef/'}
+	]
   },
   {
     text: '更多',
     link: '/more/',
     items: [
-      { text: '学习', link: '/pages/f2a556/' },
-      { text: '面试', link: '/pages/aea6571b7a8bae86/' },
-      { text: '心情杂货', link: '/pages/2d615df9a36a98ed/' },
-      { text: '实用技巧', link: '/pages/baaa02/' },
-      { text: '友情链接', link: '/friends/' },
+      { text: '算法', link: '/algorithm/'},
+      { text: '面试', link: '/pages/b4a65f/' }
     ],
   },
   { text: '关于', link: '/about/' },
