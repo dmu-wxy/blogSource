@@ -45,6 +45,7 @@ module.exports = [
 	text: 'XR',
 	link: '/xr/',
 	items: [
+	{text: 'Game101', link: '/pages/7dfc72/'},
     {text: 'OpenXR', link: '/pages/5881ef/'},
     {text: 'OpenGL', link: '/pages/f74434/'}
 	]
