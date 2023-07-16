@@ -6,7 +6,7 @@ module.exports = [
     'meta',
     {
       name: 'keywords',
-      content: '后端博客,个人技术博客,后端,后端开发,后端框架,java后端,后端面试题,技术文档,学习,面试,Java,Spring,SpringBoot,Redis,git,github,markdown',
+      content: 'C++,渲染,后端博客,个人技术博客,后端,后端开发,后端框架,java后端,后端面试题,技术文档,学习,面试,Java,Spring,SpringBoot,Redis,git,github,markdown',
     },
   ],
   ['meta', { name: 'baidu-site-verification', content: '7F55weZDDc' }], // 百度统计的站长验证
