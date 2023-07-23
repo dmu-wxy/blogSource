@@ -55,7 +55,7 @@ module.exports = {
     // 博主信息，显示在首页侧边栏
     avatar: '/img/face.jpg',
     name: 'Meteor',
-    slogan: 'OS研发',
+    slogan: 'OS研发/Android渲染',
   },
   social: {
     // 社交图标，显示于博主信息栏和页脚栏
