@@ -36,7 +36,7 @@ module.exports = [
 			},
 			{
 		       text: 'Spring',
-		       link: '/spring/',
+		       link: '/pages/spring/',
 		    },
 		  ],
 		},
@@ -46,7 +46,7 @@ module.exports = [
     text: '更多',
     link: '/more/',
     items: [
-      { text: '算法', link: '/algorithm/'},
+      { text: '算法', link: '/pages/pic/'},
       { text: '面试', link: '/pages/b4a65f/' }
     ],
   },
